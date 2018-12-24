@@ -1,0 +1,24 @@
+{
+  "name": "todo-app",
+  "homepage": "https://github.com/hemantparashar/todo-app",
+  "authors": [
+    "Hemant Parashar <hemant6191@gmail.com>"
+  ],
+  "description": "A ToDo List web application bulit on Angular.js",
+  "main": "app.js",
+  "keywords": [
+    "Angular.js",
+    "todo",
+    "list",
+    "web"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.5.3",
+    "font-awesome": "fontawesome#^4.5.0",
+    "jquery": "^2.2.3",
+     "angular-animate": "^1.5.3",
+    "angular-route": "^1.5.3"
+  }
+}
